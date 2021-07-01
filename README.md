@@ -17,7 +17,7 @@ The [https://github.com/clovaai/CRAFT-pytorch](https://github.com/clovaai/CRAFT-
 
 ### text-recognition-models-20201210
 
-This release contains six models released by Clova AI research as part of the [https://github.com/clovaai/deep-text-recognition-benchmark/](https://github.com/clovaai/deep-text-recognition-benchmark/) repository.
+This release contains five models released by Clova AI research as part of the [https://github.com/clovaai/deep-text-recognition-benchmark/](https://github.com/clovaai/deep-text-recognition-benchmark/) repository.
 
 Please refer to the original [Readme](https://github.com/clovaai/deep-text-recognition-benchmark/blob/366f4368fecbf6423bf0c224f8b2535e66af24f7/README.md) for details on the model training procedure. 
 
